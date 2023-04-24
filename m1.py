@@ -1,0 +1,2 @@
+print ("hi")
+priny ("hello")
